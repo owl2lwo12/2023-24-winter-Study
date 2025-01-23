@@ -14,3 +14,4 @@
 # 2024-winter-Study
 ## 24 겨울방학 모각소
 ### 2025/1/9 [TIL](https://github.com/owl2lwo12/2023-24-winter-Study/tree/main/24WinterStudy/25-1-9)
+### 2025/1/23 [TIL](https://github.com/owl2lwo12/2023-24-winter-Study/tree/main/24WinterStudy/25-1-23)
