@@ -16,3 +16,4 @@
 ### 2025/1/9 [TIL](https://github.com/owl2lwo12/2023-24-winter-Study/tree/main/24WinterStudy/25-1-9)
 ### 2025/1/23 [TIL](https://github.com/owl2lwo12/2023-24-winter-Study/tree/main/24WinterStudy/25-1-23)
 ### 2025/2/6 [TIL](https://github.com/owl2lwo12/2023-24-winter-Study/tree/main/24WinterStudy/25-2-6)
+### 2025/2/20 [TIL](https://github.com/owl2lwo12/2023-24-winter-Study/tree/main/24WinterStudy/25-2-20)
